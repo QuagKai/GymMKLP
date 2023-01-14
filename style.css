@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+#titlepage {
+    margin-top: 100px;
+    text-align: center;
+    
+}
+
+.text p {
+    font-size: 40px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+#tittlepage .logo {
+    padding-top: 100px;
+}
+
+#tableofcontent {
+    margin-top: 200px;
+    margin-left: 200px;
+}
+
+#tableofcontent .content{
+    font-size: 30px;
+
+}
+
+#tableofcontent .content2 .li{
+    text-indent: 100px;
+
+}
